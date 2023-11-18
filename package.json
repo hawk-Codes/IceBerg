@@ -1,0 +1,23 @@
+{
+  "name": "iceberg-dark",
+  "displayName": "IceBerg Dark",
+  "description": "Inspired by the cool depths of the ocean.",
+  "version": "1.0.0",
+  "publisher": "hawkCodes",
+  "repository": "https://github.com/hawk-Codes/IceBerg",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IceBerg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IceBerg-color-theme.json"
+      }
+    ]
+  }
+}
